@@ -1,0 +1,37 @@
+<div class="grid_cursos">
+            <article class="tarjeta_curso">
+                <img src="images/img2.jpg" alt="Img_Frontend">
+                <div class="info_curso">
+                    <h3>Desarrollo Web Frontend</h3>
+                    <p>Domina HTML 5 Sempaitico, CSS3, Flexbox, JavaScript Interactivo.</p>
+                    <span class="nivel">Princiante</span>
+                </div>
+            </article>
+            <article class="tarjeta_curso">
+                <img src="images/img3.jpg" alt="Img_Python">
+                <div class="info_curso">
+                    <h3>Python para Ciencia de Datos</h3>
+                    <p>Análisis de Datos Estructuradis, Visualización y Machine Learning.</p>
+                    <span class="nivel">Intermedio</span>
+                </div>
+            </article>
+            </article>
+            <article class="tarjeta_curso">
+                <img src="images/img4.jpg" alt="Img_BD_Robustas">
+                <div class="info_curso">
+                    <h3>Bases de Datos Robustas</h3>
+                    <p>Diseño SQL Relacional, Llaves Foráneas y Normalización.</p>
+                    <span class="nivel">Princiante</span>
+                </div>
+            </article>
+            </article>
+            <article class="tarjeta_curso">
+                <img src="images/img5.jpg" alt="Img_B_End">
+                <div class="info_curso">
+                    <h3>Programación BackEnd con APIs</h3>
+                    <p>Construcción de Servicios REST, EndPoints, JSON y Autenticación.</p>
+                    <span class="nivel">Avanzado</span>
+                </div>
+            </article>
+        </div>
+        
